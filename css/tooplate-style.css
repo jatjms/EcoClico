@@ -121,7 +121,7 @@ p {
 
 .product:hover {
   background: #62b696;
-  color: #62b696;
+  color: white;
 }
 
 .tm-nav-icon {
@@ -223,7 +223,7 @@ p {
   margin: 1em;
   cursor: pointer;
   font-size: 0.85em;
-  color: #83bc8fff;
+  color: white;
   z-index: 1001;
 }
 
